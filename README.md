@@ -3,11 +3,6 @@ React Native - Arquitetura MVVM, gestão de estado global com Zustand e de cache
 
 
 ---
-titulo: Arquitetura e Estado em React Native
-curso: Formação em React Native
-plataforma: Rocketseat
-carga_horaria: 22h
-concluido_em: 2026-09-08
 stack: [react-native, expo, typescript, zustand, tanstack-query, reanimated]
 tags: [react-native, gestao-de-estado, mvvm, cache, formularios, animacoes]
 nivel: intermediário
