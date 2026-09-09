@@ -3,9 +3,9 @@ React Native - Arquitetura MVVM, gestão de estado global com Zustand e de cache
 
 
 ---
-stack: [react-native, expo, typescript, zustand, tanstack-query, reanimated]
-tags: [react-native, gestao-de-estado, mvvm, cache, formularios, animacoes]
-nivel: intermediário
+# stack: [react-native, expo, typescript, zustand, tanstack-query, reanimated]
+# tags: [react-native, gestao-de-estado, mvvm, cache, formularios, animacoes]
+# nivel: intermediário
 ---
 
 # Arquitetura e Estado em React Native
