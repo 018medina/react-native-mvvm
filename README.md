@@ -5,7 +5,7 @@ stack: react-native, expo, typescript, zustand, tanstack-query, reanimated.
 
 tags: react-native, gestao-de-estado, mvvm, cache, formularios, animacoes.
 
-nivel: intermediário.
+nível: intermediário.
 
 # Arquitetura e Estado em React Native
 
